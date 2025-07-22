@@ -281,7 +281,6 @@ body {
   text-decoration: underline;
 }
 
-// страница профиля (карточка контакта)
 .main-profile {
   padding: 30px 50px;
   background-color: #f5f7fa;
@@ -344,7 +343,6 @@ body {
   line-height: 1.6;
 }
 
-// header для авторизованного пользователя
 .user-name {
   margin-right: 12px;
   font-weight: 600;
